@@ -3,6 +3,8 @@ fractal-processing-polygons
 
 A little program that generates art based on an image.
 
+![alt tag](http://etohehir.com/gfx/projects/Experiments/processing-sketch.jpg)
+
 __Directions__
 
 Open the .pde file in Processing, and run it.
