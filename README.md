@@ -3,7 +3,7 @@ fractal-processing-polygons
 
 A little program that generates art based on an image.
 
-![alt tag](http://etohehir.com/gfx/projects/Experiments/processing-sketch.jpg)
+![alt tag](FractalPolygons/export.png)
 
 __Directions__
 
